@@ -1,6 +1,11 @@
 # OSI模型架構
 
-First Header|second Header
--|-
-Content Cell| Content Cell
-Content Cell| Content Cell
+層級|英文|中文|描述|例
+-|-|-|-|-|
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
+層級|英文|中文|描述|例
