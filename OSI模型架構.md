@@ -1,7 +1,7 @@
 # OSI模型架構
 
 層級|英文|中文|描述|例
--|:-:|:-:|-|-|
+-:|:-:|:-:|-|-|
 7|Application Layer|應用層|應用程式介面、功能、應用|FTP、HTTP、SMTP
 6|Presentation Layer|展示層|編碼、轉譯、資料格式|加密/解密
 5|Session Layer|會談層|整個通訊的過程，開始到結束|網路購物車
