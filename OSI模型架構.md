@@ -1,5 +1,5 @@
 # OSI模型架構
-
+https://www.slideserve.com/darena/osi
 層級|英文|中文|描述|例
 :-:|:-:|:-:|-|-|
 7|Application Layer|應用層|應用程式介面、功能、應用|FTP、HTTP、SMTP
