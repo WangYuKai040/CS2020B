@@ -1,8 +1,7 @@
 # OSI模型架構
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
 
