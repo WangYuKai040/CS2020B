@@ -5,6 +5,6 @@
 | git diff | Show file differences that haven't been staged |
 
 |First Header|second Header
-|-|-|
-|Content Cell| Content Cell  |
-| Content Cell|Content Cell  |
+|-|-
+|Content Cell| Content Cell
+| Content Cell|Content Cell
