@@ -1,5 +1,5 @@
 # OSI模型架構
-https://www.slideserve.com/darena/osi
+https://www.slideserve.com/darena/osi  
 http://linux.vbird.org/linux_server/0110network_basic.php#whatisnetwork_osi
 層級|英文|中文|描述|例
 :-:|:-:|:-:|-|-|
