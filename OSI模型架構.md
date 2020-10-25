@@ -4,7 +4,7 @@ http://linux.vbird.org/linux_server/0110network_basic.php#whatisnetwork_osi
 層級|英文|中文|描述|例
 :-:|:-:|:-:|-|-|
 7|Application Layer|應用層|應用程式介面、功能、應用|FTP、HTTP、SMTP
-6|Presentation Layer|展示層|編碼、轉譯、資料格式|加密/解密
+6|Presentation Layer|表現層|編碼、轉譯、資料格式|加密/解密
 5|Session Layer|會談層|整個通訊的過程，開始到結束|NetBIOS names
 4|Transport Layer|傳輸層|端點對端點(End-to-End)連線(Connection)|TCP、UDP
 3|Network Layer|網路層|網路間的傳輸|IP、路由器
