@@ -65,11 +65,11 @@ IP是在TCP/IP協定套組中網路層的主要協定
 ```
 在一個電腦作業系統中扮演通訊的端點（endpoint）。每個通訊埠都會與主機的IP位址及通訊協定關聯。通訊埠以16位元數字來表示，這被稱為通訊埠編號（port number）
 ```
-# UDP (User Datagram Protocol,UDP傳輸控制協定) 
+# UDP (User Datagram Protocol,UDP 用戶資料報協定) 
 ```
 不可靠,不穩定,但快
 ```
-# TCP (Transmission Control Protocol,TCP傳輸控制協定) 
+# TCP (Transmission Control Protocol,TCP 傳輸控制協定) 
 ```
 可靠,穩定,但慢
 ```
