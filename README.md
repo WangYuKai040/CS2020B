@@ -21,7 +21,7 @@
 也稱為區域網路位址（LAN Address），乙太網路位址（Ethernet Address）或實體位址（Physical Address）
 ```
 ```
-CMD>inconfig
+CMD>ipconfig
 
 
 Microsoft Windows [版本 6.1.7601]
