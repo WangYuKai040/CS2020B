@@ -1,6 +1,6 @@
 # 資訊工程導論
-![協定protocol](DSC_0054.JPG)
-![協定protocol](protocol.jpg)
+![computer](computer.jpg)
+![protocol](protocol.jpg)
 
 # OSI (Open System Interconnection Model,OSI模型)
 ```
